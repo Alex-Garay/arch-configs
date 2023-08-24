@@ -24,3 +24,4 @@
 22) nvim
 23) xorg - rendering engine
 24) synaptics - laptop touchpad handling - /etc/X11/xorg-conf.d/100-synaptics.conf
+25) xclip - copy/pasting terminal (clipboard manager)
